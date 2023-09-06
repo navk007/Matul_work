@@ -1,0 +1,10 @@
+.loginCon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px; /* Adjust the height as needed */
+    width: 70%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+     margin: 100px auto auto auto;
+    
+  }
